@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
-    <h1>Hello</h1>
-  </div>
+  <mian id="app">
+    <h1>Hello world</h1>
+  </mian>
 </template>
 
 <script>
