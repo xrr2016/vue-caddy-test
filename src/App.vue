@@ -1,6 +1,7 @@
 <template>
   <mian id="app">
     <h1>Hello world</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto voluptatibus praesentium aliquid, maiores aut tempore. Obcaecati temporibus nostrum, esse aut officia, modi iusto ab enim excepturi at deleniti distinctio autem.</p>
   </mian>
 </template>
 
