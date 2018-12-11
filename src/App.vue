@@ -2,6 +2,7 @@
   <div id="app">
     <h1>hello world</h1>
     <h2>Bravo!</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita facere consequuntur harum, nam dolore sed rem quasi minus eligendi distinctio unde, ducimus velit dolorum nobis sapiente ipsam voluptates esse quam.</p>
   </div>
 </template>
 
